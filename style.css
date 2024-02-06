@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(24, 193, 227);
+  }
+  #nav-table {width: 800px;;}
+  #nav-td {width: 266.6px;text-align:center}
+  h2 {color: blueviolet;}
+ #aboutme-back {background-image: url(myBackground.jpg);align-items: center;}
+ #manny {
+  width: 100px;
+  float: left;
+  margin-right: 6px;
+  margin-bottom: 6px;}
+ #snowboard-image   {
+  width: 300px;
+  height: 300px;
+  float: left;
+padding: 200px;
+  
+}
+ #hockey-image {
+  width: 100px;
+  float: left;
+  margin-right: 6px;
+  margin-bottom: 6px; text-align: center;}
+ p {color: red;}
+ #chali {
+  width: 100px; height: 100px;
+padding: 200px;}
