@@ -6,7 +6,7 @@ body {
   h2 {color: blueviolet;}
  #aboutme-back {background-image: url(myBackground.jpg);align-items: center;}
  #manny {
-  width: 100px;
+  width: 300px;
   float: left;
   margin-right: 6px;
   margin-bottom: 6px;}
@@ -18,11 +18,12 @@ padding: 200px;
   
 }
  #hockey-image {
-  width: 100px;
-  float: left;
-  margin-right: 6px;
-  margin-bottom: 6px; text-align: center;}
+  width: 300px;
+  margin-right: 6px;}
  p {color: red;}
  #chali {
   width: 100px; height: 100px;
 padding: 200px;}
+
+#activity-table {width: 800px;;}
+#nav-td {width: 266.6px;text-align:center}
